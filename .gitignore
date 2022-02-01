@@ -13,3 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Making sure any builds don't get included
+gogo-gadget-image
